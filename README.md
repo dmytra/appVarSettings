@@ -1,6 +1,9 @@
 # appVarSettings
 app Variant Settings : Explanation of QSettings and How to use in QT C++
 
+
+<img width="636" alt="Screenshot 2023-12-14 at 14 48 00" src="https://github.com/dmytra/appVarSettings/assets/105235692/79a57cbc-5af2-466f-90eb-59784f754444">
+
 <img width="628" alt="Screenshot 2023-11-26 at 23 16 12" src="https://github.com/dmytra/appVarSettings/assets/105235692/f3384e4c-358a-413b-b47b-75787265f8cd">
 
 <img width="765" alt="Screenshot 2023-11-26 at 23 16 55" src="https://github.com/dmytra/appVarSettings/assets/105235692/3e6cc16c-badf-4841-995a-b523eda4ae3f">
